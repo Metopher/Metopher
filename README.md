@@ -1,7 +1,7 @@
 ## 🐬 Christopher
 <p>
-  <a align= middle>
-    <img src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Vnenh0ejNvMWJyNHZrNjcwanJlazE5ZXh0ODlhODJ2dzJrazZ3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YRzQnWzbn4WIxd3ZYx/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXY1dno5aWEwc3Ztd3gxdDdodHRzMmhwMnpyODRlcTRoM2w2aGdiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QVgwPD98gFG9HLn1no/giphy.gif)"/>
+  <a>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXY1dno5aWEwc3Ztd3gxdDdodHRzMmhwMnpyODRlcTRoM2w2aGdiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QVgwPD98gFG9HLn1no/giphy.gif"/>
   </a>
 </p>
 <!--
