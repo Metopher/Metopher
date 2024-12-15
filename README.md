@@ -1,30 +1,5 @@
 ## 🍀 Christopher
-<title>Christopher's Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        h3 {
-            color: #555;
-        }
-        .bio {
-            background: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-        }
-        .leet-stats {
-            text-align: center;
-            margin-top: 20px;
-        }
-    </style>
-<body>
+
     <h1>Welcome to My Profile!</h1>
     <div class="bio">
         <h3>About Me</h3>
