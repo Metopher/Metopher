@@ -23,8 +23,7 @@
             </a>
         </p>
     </div>
-
-    <div class="leet-stats">
+<div class="leet-stats">
         <h3>My LeetCode Stats</h3>
         <img src="https://leetcard.jacoblin.cool/metopher?border=0&radius=20" alt="LeetCode Stats"/>
     </div>
