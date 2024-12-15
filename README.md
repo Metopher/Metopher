@@ -4,8 +4,6 @@
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXY1dno5aWEwc3Ztd3gxdDdodHRzMmhwMnpyODRlcTRoM2w2aGdiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QVgwPD98gFG9HLn1no/giphy.gif"/>
   </a>
 </p>
-<h1 align="center">Hi 👋, I'm Christopher</h1>
-<h3 align="center">getting better everyday</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
