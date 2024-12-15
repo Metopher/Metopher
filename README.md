@@ -3,7 +3,7 @@
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXY1dno5aWEwc3Ztd3gxdDdodHRzMmhwMnpyODRlcTRoM2w2aGdiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QVgwPD98gFG9HLn1no/giphy.gif"/>
   </a>
 <body>
-    <h1>Welcome to My Profile!</h1>
+    <h1>Hi there!</h1>
     <div class="bio">
         <h3>About Me</h3>
         <p>
