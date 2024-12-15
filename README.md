@@ -24,7 +24,6 @@
             margin-top: 20px;
         }
     </style>
-</head>
 <body>
     <h1>Welcome to My Profile!</h1>
     <div class="bio">
