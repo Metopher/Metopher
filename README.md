@@ -26,7 +26,6 @@
     </style>
 </head>
 <body>
-
     <h1>Welcome to My Profile!</h1>
     <div class="bio">
         <h3>About Me</h3>
@@ -52,7 +51,6 @@
         <h3>My LeetCode Stats</h3>
         <img src="https://leetcard.jacoblin.cool/metopher?border=0&radius=20" alt="LeetCode Stats"/>
     </div>
-
 </body>
 
 
