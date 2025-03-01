@@ -12,26 +12,7 @@
         </p>
         <h3>Languages and Tools:</h3>
         <p>
-            <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-            </a>
-            <a href="https://www.java.com" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-            </a>
-            <a href="https://www.python.org" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-            </a>
-                <a href="https://www.python.org" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="Html" width="40" height="40"/>
-            </a>
-                </a>
-                <a href="https://www.python.org" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="Html" width="40" height="40"/>
-            </a>
-            </a>
-                <a href="https://www.python.org" target="_blank" rel="noreferrer">
-                <img src="https://skillicons.dev/icons?i=all" alt="Html" width="40" height="40"/>
-            </a>
+            [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
         </p>
     </div>
 <div class="leet-stats">
