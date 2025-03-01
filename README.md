@@ -1,33 +1,30 @@
-<h1>Hi there! I'm Christopher 👋</h1>
-
-<p>I'm an aspiring developer with a passion for creating innovative solutions and learning new technologies. My journey in the world of programming has been both exciting and challenging, and I'm eager to share my projects and collaborate with others in the community.</p>
-
-<h2>🚀 About Me</h2>
-
-<p>Hey there! I’m Christopher, and I’m currently studying at Rajagiri School of Engineering and Technology. I’m super passionate about tech and aiming to become a software developer. I love diving into new projects and learning how to create cool software solutions. Excited to see where this journey takes me and to connect with others in the tech world!</p>
-
-<h2>🛠️ Technologies & Tools</h2>
-
-<p>Here are some of the technologies and tools I enjoy working with:</p>
-
-<ul>
-    <li>Languages: [insert languages, e.g., JavaScript, Python, Java]</li>
-    <li>Frameworks: [insert frameworks, e.g., React, Node.js, Django]</li>
-    <li>Tools: [insert tools, e.g., Git, Docker, VS Code]</li>
-</ul>
-
-<h2>🌟 Projects</h2>
-
-<p>Check out some of my projects below:</p>
-
-<ul>
-    <li><a href="link-to-your-project">Project 1</a>: A brief description of what this project does.</li>
-    <li><a href="link-to-your-project">Project 2</a>: A brief description of what this project does.</li>
-    <li><a href="link-to-your-project">Project 3</a>: A brief description of what this project does.</li>
-</ul>
-
-<h2>🤝 Let's Connect!</h2>
-
-<p>I’m always open to new opportunities and collaborations. Feel free to reach out if you’d like to connect or if you have any questions about my work!</p>
-
-<p>Thank you for visiting my GitHub profile! I look forward to sharing my journey with you.</p>
+## 🎢 Christopher
+<div align="center">
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXY1dno5aWEwc3Ztd3gxdDdodHRzMmhwMnpyODRlcTRoM2w2aGdiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QVgwPD98gFG9HLn1no/giphy.gif" alt="Description of GIF" />
+    </div>
+<body>
+    <h1>Hi there!</h1>
+    <div class="bio">
+        <h3>About Me</h3>
+        <p>
+            Hello! I'm Christopher, an aspiring developer with a passion for coding and problem-solving. 
+            I enjoy learning new programming languages and tools, and I'm always looking for ways to improve my skills.
+        </p>
+        <h3>Languages and Tools:</h3>
+        <p>
+            <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+            </a>
+            <a href="https://www.java.com" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+            </a>
+            <a href="https://www.python.org" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+            </a>
+        </p>
+    </div>
+<div class="leet-stats">
+        <h3>My LeetCode Stats</h3>
+        <img src="https://leetcard.jacoblin.cool/metopher?border=0&radius=20" alt="LeetCode Stats"/>
+    </div>
+</body>
