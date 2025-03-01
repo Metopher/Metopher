@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/73be8295-0110-4d8a-b93c-0ad8b086e560)## 🎢 Christopher
+🎢 Christopher
 <div align="center">
         <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXY1dno5aWEwc3Ztd3gxdDdodHRzMmhwMnpyODRlcTRoM2w2aGdiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QVgwPD98gFG9HLn1no/giphy.gif" alt="Description of GIF" />
     </div>
