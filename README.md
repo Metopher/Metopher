@@ -11,7 +11,9 @@
             I enjoy learning new programming languages and tools, and I'm always looking for ways to improve my skills.
         </p>
         <h3>Languages and Tools:</h3>
-        [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light )](https://skillicons.dev)
+        [<a>
+                [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+        </a>
     </div>
 <div class="leet-stats">
         <h3>My LeetCode Stats</h3>
