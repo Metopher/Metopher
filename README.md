@@ -1,5 +1,3 @@
-<h1>Welcome to My GitHub Profile!</h1>
-
 <h2>Hi there! I'm Christopher 👋</h2>
 
 <p>I'm an aspiring developer with a passion for creating innovative solutions and learning new technologies. My journey in the world of programming has been both exciting and challenging, and I'm eager to share my projects and collaborate with others in the community.</p>
