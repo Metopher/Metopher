@@ -6,12 +6,7 @@
 
 <h3>🚀 About Me</h3>
 
-<ul>
-    <li>🌱 I’m currently learning: [insert technologies or languages you are currently learning, e.g., JavaScript, Python, React]</li>
-    <li>💼 I’m looking to collaborate on: [insert areas of interest, e.g., open-source projects, web development, mobile apps]</li>
-    <li>📫 How to reach me: [insert your email or social media links]</li>
-    <li>⚡ Fun fact: [insert a fun fact about yourself, e.g., "I love hiking and exploring nature!"]</li>
-</ul>
+Hey there! I’m Christopher, and I’m currently studying at Rajagiri School of Engineering and Technology. I’m super passionate about tech and aiming to become a software developer. I love diving into new projects and learning how to create cool software solutions. Excited to see where this journey takes me and to connect with others in the tech world!
 
 <h3>🛠️ Technologies & Tools</h3>
 
