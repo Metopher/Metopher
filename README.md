@@ -1,9 +1,10 @@
-## 🎢 Christopher
-<div align="center">
+<body>
+    <div align="center">
         <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXY1dno5aWEwc3Ztd3gxdDdodHRzMmhwMnpyODRlcTRoM2w2aGdiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QVgwPD98gFG9HLn1no/giphy.gif" alt="Description of GIF" />
     </div>
-<body>
+    
     <h1>Hi there!</h1>
+    
     <div class="bio">
         <h3>About Me</h3>
         <p>
@@ -23,24 +24,11 @@
             </a>
         </p>
     </div>
-<div class="leet-stats">
+    
+    <div class="leet-stats">
         <h3>My LeetCode Stats</h3>
         <img src="https://leetcard.jacoblin.cool/metopher?border=0&radius=20" alt="LeetCode Stats"/>
     </div>
+
+    <script src="script.js"></script>
 </body>
-
-
-<!--
-**Metopher/Metopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
