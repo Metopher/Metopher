@@ -24,6 +24,14 @@
                 <a href="https://www.python.org" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="Html" width="40" height="40"/>
             </a>
+                </a>
+                <a href="https://www.python.org" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="Html" width="40" height="40"/>
+            </a>
+            </a>
+                <a href="https://www.python.org" target="_blank" rel="noreferrer">
+                <img src="https://skillicons.dev/icons?i=all" alt="Html" width="40" height="40"/>
+            </a>
         </p>
     </div>
 <div class="leet-stats">
